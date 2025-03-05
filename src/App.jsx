@@ -3,15 +3,16 @@ import React from 'react'
 function App() {
   return (
     <div>
-      Name : R S Sujaykiran
+      Hi! Myself Atchay,
       <br />
-      Designation : Kalvium student
+      I'm part Kalvium Community,
       <br />
-      Address : Vels University
+      Kalvium Community is a community of developers who are passonate about learning and sharing knowledge.
       <br />
-      Email : r.ssujaykiran.s75@kalvium.community
+      Email : atchay.kumaran.s75@kalvium.community
     </div>
   )
 }
 
 export default App
+
